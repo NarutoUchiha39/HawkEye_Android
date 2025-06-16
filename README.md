@@ -1,0 +1,2 @@
+## Hawk Eye
+A proof of concept project made in collaboration with <a href="https://github.com/Asphyxi8">Priyansh Rajusth </a>, <a href="https://github.com/Kedar59">Kedar Shidhaye</a> and <a href="https://github.com/tejaspundlik"> Tejas Pundlik </a>. This project aims to help visually impaired people navigate busy roads with a bit more confidence by providing them with voice assisted navigation which will help them go to their desired location along with haptic feedback to alert them to the direction of incoming obstacles
